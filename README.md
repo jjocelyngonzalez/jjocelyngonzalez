@@ -1,4 +1,4 @@
-# Jocelyn Gonzalez - Aspiring full-stack Developer 🌟
+# Jocelyn Gonzalez - Aspiring Developer 🌟
 
 ## 👩‍💻 About Me
 Hello! I'm Jocelyn. I'm currently enrolled in a Software Engineering Bootcamp where I'm diving deep into web development, building real-world projects, and sharpening my skills in HTML, CSS, JavaScript, and more. Every week brings new challenges, and I love seeing my progress as I grow. When I'm not coding, you can find me hiking some fun trails, hitting PR's, or playing video games ;) ✨
